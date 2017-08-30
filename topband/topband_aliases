@@ -1,0 +1,17 @@
+#aliases created by richard
+
+#am335x
+alias am335x='cd /home/richard/work/am335x/project'
+alias 3am335x='cd '
+alias 4am335x='cd /home/richard/work/am335x/project/ti-processor-sdk-linux-am335x-evm-04.00.00.04'
+alias kernel='cd /home/richard/work/am335x/repository/linux/kernel'
+alias uboot='cd /home/richard/work/am335x/repository/linux/boot'
+alias filesystem='cd /home/richard/work/am335x/repository/linux/filesystem'
+alias rep='cd /home/richard/work/am335x/repository'
+
+
+#git
+alias st='git status'
+
+#other
+alias doc='cd /home/richard/Documents'
